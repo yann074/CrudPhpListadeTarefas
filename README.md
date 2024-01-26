@@ -36,6 +36,10 @@
 
 6. **Acessar o phpMyAdmin:**
    - Abra um navegador web e vá para `http://localhost/estagio_01/index.php`.
+  
+7. **Colocar os códigos em .php**
+
+   - Coloque os códigos em php, após isso, so abrir no link acima.
 
 
 
