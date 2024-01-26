@@ -18,11 +18,14 @@
    - Abra o XAMPP Control Panel e inicie os serviços necessários, como Apache e MySQL.
 
 4. **Configurar o Apache:**
-   - Coloque seus arquivos do projeto na pasta `htdocs` dentro do diretório de instalação do XAMPP.
+   - Coloque seus arquivos php do projeto na pasta `htdocs` dentro do diretório de instalação do XAMPP.
+   - Abra o config no mysql, altere a porta para 3306, SE NECESSÁRIO
   
 5. **Criar uma Tabela:**
    - Crie um banco de dados com o nome "tarefas".
    - Crie uma tabela chamada "lista":
+   - No próprio phpmyadmin, você consegue acessar só clicando no 'admin' que tem na opção do mysql
+   - (caso o mysql fique dando erro, basta ir em 'services' e clica com o botão direito do mouse em MySql80 e clicar em parar.)
 
      ```sql
      CREATE TABLE lista (
