@@ -34,7 +34,7 @@
      );
      ```
 
-   6. **Acessar o phpMyAdmin:**
+6. **Acessar o phpMyAdmin:**
    - Abra um navegador web e vá para `http://localhost/estagio_01/index.php`.
 
 
