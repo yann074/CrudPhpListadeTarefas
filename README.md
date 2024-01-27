@@ -38,7 +38,7 @@
      ```
 
 6. **Acessar o phpMyAdmin:**
-   - Abra um navegador web e vá para `http://localhost/estagio_01/index.php`.
+   - Abra um navegador web e vá para `http://localhost/(Coloque o nome da pasta que foi salvo)/index.php`.
   
 7. **Colocar os códigos em .php**
 
